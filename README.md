@@ -25,9 +25,13 @@ Garbage collection
 You will implement a Mark and Sweep Defragmenting/Mark-compact garbage collector. This function is implemented by compact() in the object manager. So that we can evaluate your implementation, every time the garbage collector runs, print out the following statistics (to stdout):
 
 The number of objects that exist
+
 The current number of bytes in use
+
 The number of bytes collected
+
 Data structures
+
 
 You must manage the tracking of allocated objects using an index, which will be implemented using a linked list. Each node in your linked list contains the information needed to manage its associated object. Note that the index is implemented inside ObjectManager.c, you don’t need any additional files like list.{h,c}.
 
