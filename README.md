@@ -22,7 +22,7 @@ dumpPool() – Print (to stdout) info about each object that is currently alloca
 Garbage collection
 
 
-You will implement a Mark and Sweep Defragmenting/Mark-compact garbage collector, as described in class. This function is implemented by compact() in the object manager. So that we can evaluate your implementation, every time the garbage collector runs, print out the following statistics (to stdout):
+You will implement a Mark and Sweep Defragmenting/Mark-compact garbage collector. This function is implemented by compact() in the object manager. So that we can evaluate your implementation, every time the garbage collector runs, print out the following statistics (to stdout):
 
 The number of objects that exist
 The current number of bytes in use
