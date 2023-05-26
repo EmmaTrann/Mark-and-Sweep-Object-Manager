@@ -1,10 +1,4 @@
-//-----------------------------------------
-// NAME: Emma Tran
-// STUDENT NUMBER:7876069
-// COURSE: COMP 2160, SECTION: A01
-// INSTRUCTOR: Saulo Santos
-// ASSIGNMENT: assignment 4
-//
+
 // REMARKS:  Purpose of this program is to
 // implement garbage collection
 //-----------------------------------------
